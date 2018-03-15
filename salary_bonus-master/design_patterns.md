@@ -1,16 +1,5 @@
-<<<<<<< HEAD
+
 MVC
 STRATEGY
 
-
-
-
-=======
-MVC
-STRATEGY
-
-
-
-
->>>>>>> 4ea3a92e34fc4c34e132df33523c6aa62f4042ec
 Aplikacja ma być uruchamiana poprzez kliknięcie lewym przyciskiem myszy na przycisk.

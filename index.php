@@ -5,17 +5,7 @@
 <!doctype html>
 <html lang="pl">
 
-  <head>
-  
-      
-    <meta charset="UTF-8">
-      <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Programik</title>
-    <link rel="stylesheet" href="css/main.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
-
-  <body>
+<head>
 <?php
           
 function everything()
@@ -154,50 +144,33 @@ function everything()
     
 ?>    
 
+        
       
+    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Programik</title>
+    <link rel="stylesheet" href="css/main.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+  
+
           
       
     
     
 
-  </body>
+<body>
 
 
-
-
-<!doctype html>
-<html lang="pl">
-
-  <head>
 <?php
 
-      everything();
-        
-
-
-
-            
+    everything();
      
 ?>
       
-      
-      
-    <meta charset="UTF-8">
-      <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Programik</title>
-    <link rel="stylesheet" href="css/main.css">
-  </head>
 
-  <body>
-
-
-      
-          
-      
-    
-    
-
-  </body>
+</body>
 
 
 </html>
